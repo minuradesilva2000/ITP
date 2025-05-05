@@ -6,7 +6,7 @@ import siteIcon from './joker.png';
 // Import the CSS file
 import '../../customStyles.css';
 
-const AdminSidebar = () => {
+const AdminSidebar = () => { 
   return (
     <div className="sidebar">
       <div className='bg-teal-600 h-12 flex items-center justify-center'>
